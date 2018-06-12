@@ -2,11 +2,7 @@ swagger: '2.0'
 info:
   version: '1.0'
   title: "efacil"
-<<<<<<< HEAD
   description: Polls is a simple API allowing consumers (mveras - teste2) to view polls and vote in them.
-=======
-  description: Polls is a simple API allowing consumers (mveras - teste no browser) to view polls and vote in them.
->>>>>>> ddd0d16e86150782fb3d374ba6bee14f45f84fd5
   license:
     name: MIT
     url: https://github.com/apiaryio/polls-api/blob/master/LICENSE
